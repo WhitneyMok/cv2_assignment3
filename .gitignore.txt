@@ -1,1 +1,3 @@
 Data
+assi3_venv
+3Dmodels

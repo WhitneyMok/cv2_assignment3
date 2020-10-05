@@ -1,3 +1,4 @@
-Data
-assi3_venv
-3Dmodels
+.assi3_venv
+assi3_venv/
+assi3_venv.bak/
+__pycache__
